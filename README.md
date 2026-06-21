@@ -9,7 +9,7 @@ This repo serves as a working portfolio of hands-on IT support and diagnostics w
 
 | # | Title | Device / OS | Category | Status |
 |---|-------|------------|----------|--------|
-| MAHI-2026-001 | [Audio Volume Attenuation — HP ENVY x360](./Problem-Solutions/Audio-Troubleshooting-Case-Study-MAHI-2026-001.pdf) | HP ENVY x360 / Windows 11 | Audio / Driver | Resolved |
+| MAHI-2026-001 | [Audio Volume Attenuation — HP ENVY x360](./Problem%20Solutions/Audio_Troubleshooting_Case_Study_MAHI-2026-001.pdf) | HP ENVY x360 / Windows 11 | Audio / Driver | Resolved |
 
 ## Methodology
 
