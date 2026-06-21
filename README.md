@@ -4,6 +4,12 @@ Real-world hardware and software troubleshooting cases documented with systemati
 
 This repo serves as a working portfolio of hands-on IT support and diagnostics work.
 
+## Case Studies
+
+| # | Title | Device / OS | Category | Status |
+|---|-------|------------|----------|--------|
+| MAHI-2026-001 | [Audio Volume Attenuation — HP ENVY x360](./Audio_Troubleshooting_Case_Study_MAHI-2026-001.pdf) | HP ENVY x360 / Windows 11 | Audio / Driver | Resolved |
+
 ## Methodology
 
 Every case follows a consistent diagnostic approach:
